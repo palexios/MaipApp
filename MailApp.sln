@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailApp", "MailApp\MailApp.csproj", "{B0DC1368-2AB9-4B8B-B244-485B6A8A9CBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0DC1368-2AB9-4B8B-B244-485B6A8A9CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0DC1368-2AB9-4B8B-B244-485B6A8A9CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0DC1368-2AB9-4B8B-B244-485B6A8A9CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0DC1368-2AB9-4B8B-B244-485B6A8A9CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
